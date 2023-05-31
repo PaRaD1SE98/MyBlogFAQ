@@ -4,7 +4,7 @@
 
 The sheet music will not be sent to the mailbox for users who have not verified the mailbox and needs to be downloaded from the website. Users with verified email can directly obtain sheet music from the attachment of the order notification email.
 
-Please visit [My Order](/account_summary), click on the latest order no. in the list to download the sheet music.
+Please visit [My Order](/account_summary/?tab=order), click on the latest order no. in the list to download the sheet music.
 
 Since the server configuration is very basic, sometimes you may encounter a slow network, just wait for a while before proceeding.
 
